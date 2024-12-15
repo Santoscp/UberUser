@@ -11,7 +11,8 @@ export const environment = {
       },
       
       api:{
-        endpoint:'http://localhost:9090/api',
+      //endpoint:'http://localhost:9090/api',
+      endpoint:'https://quickbite-wtop.onrender.com/api',
         apiuser:'user/',
         apiProduct:'productos',
         apiEmpresas:'empresas'
